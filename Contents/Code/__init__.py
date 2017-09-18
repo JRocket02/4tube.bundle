@@ -1,7 +1,7 @@
 import urllib
 from Common import *
 
-TITLE = '4Tube'
+TITLE = 'TvTube'
 NAME = L(TITLE)
 ART = 'art-default.jpg'
 ICON = 'icon-default.png'
